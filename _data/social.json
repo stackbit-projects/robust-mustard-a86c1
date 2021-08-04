@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/edoardovimercati/",
+    "image": "images/social/linkedin.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/BlueSertorius",
+    "image": "images/social/twitter.svg"
+  }
+]
